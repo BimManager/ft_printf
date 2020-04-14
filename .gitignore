@@ -1,0 +1,8 @@
+bin/
+test/
+build/
+trash/
+*~
+#*#
+*.a
+*.o
